@@ -1,10 +1,10 @@
-# A Lifetime of Memories
+# It's Subham
 
-A small, responsive scrapbook-inspired landing page built with plain HTML and CSS. The supplied scrapbook image is included locally in `assets/`; there are no external asset or runtime dependencies.
+A responsive portrait page featuring Subham beside his motorcycle. The page, stylesheet, and supplied image are stored in `public/`; there are no external asset or runtime dependencies. The repository-root `index.html` forwards visitors to `public/index.html`.
 
 ## View locally
 
-Open `index.html` in a browser. No build step or package installation is needed.
+Open `public/index.html` in a browser, or open the repository-root `index.html` to follow its redirect. No build step or package installation is needed.
 
 ## Deploy with GitHub Pages
 
